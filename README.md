@@ -24,7 +24,7 @@
 * **Frontend:** React.js, Vite, Tailwind CSS, Lucide Icons, Axios, Socket.io-client
 * **Backend:** Node.js, Express.js, Socket.io (Real-time events)
 * **Database:** MongoDB Atlas (Mongoose ODM)
-* **AI Engine:** Google Gemini AI SDK (`gemini-2.5-flash`)
+* **AI Engine:** Google Gemini AI SDK (`gemini-3.5-flash`)
 * **Deployment:** Vercel (Frontend) & Render (Backend)
 
 ---
